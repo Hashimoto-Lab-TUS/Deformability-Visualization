@@ -1,0 +1,26 @@
+# ROS
+build/
+install/
+log/
+
+# ML models
+*.pth
+*.pt
+*.ckpt
+
+# external repos
+CenterNet2/
+pytorch-material-classification/
+chainer-centernet/
+
+# cache
+__pycache__/
+*.pyc
+
+# data
+*.csv
+*.ods
+*.png
+
+# misc
+.DS_Store

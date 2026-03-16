@@ -1,0 +1,5 @@
+float64 initial_gripper_distance
+float64 object_diameter
+---
+string csv_filename
+string graph_filename
