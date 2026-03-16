@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# allow directories
+!*/
+!src/
+
+# allow only files to keep
+!.gitignore
+!README.md
+!src/deforma_map.py
