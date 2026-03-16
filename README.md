@@ -18,4 +18,4 @@ k = F / dx
 
 | Input Image | Deformation Map |
 |-------------|----------------|
-| ![](images/IMG_4620.png) | ![](images/result_metal.png) |
+| ![](images/IMG_4620.jpg) | ![](images/result_metal.png) |
