@@ -24,3 +24,13 @@ __pycache__/
 
 # misc
 .DS_Store
+
+Detic/
+CenterNet2/
+pytorch-material-classification/
+control_dynamixel/
+sound_wave/
+
+build/
+install/
+log/
