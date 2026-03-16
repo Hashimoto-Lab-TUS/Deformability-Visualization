@@ -11,11 +11,11 @@ k = F / dx
 
 を算出し，その空間分布をカラーマップとして可視化しています．
 
-- 🔴 赤：剛性が高い領域（変形しにくい）
-- 🔵 青：剛性が低い領域（変形しやすい）
+- 🔵 青：剛性が高い領域（変形しにくい）
+- 🔴 赤：剛性が低い領域（変形しやすい）
 
 ## Visualization Example
 
 | Input Image | Deformation Map |
 |-------------|----------------|
-| ![](images/IMG_4620.jpg) | ![](images/result_metal.png) |
+| <img src="images/IMG_4620.jpg" width="350"> | <img src="images/result_metal.png" width="350"> |
