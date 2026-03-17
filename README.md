@@ -9,7 +9,8 @@
 
 k = F / dx
 
-を算出し，その空間分布をカラーマップとして可視化しています．
+を定義し，各素材に対する剛性分布を計測しました．
+さらに，Deticによる物体検出とResNetによる素材推論を組み合わせることで，入力画像から対応する剛性分布を推定し，カラーマップとして可視化しています．
 
 - 🔵 青：剛性が高い領域（変形しにくい）
 - 🔴 赤：剛性が低い領域（変形しやすい）
@@ -28,4 +29,4 @@ k = F / dx
 
 | Input Image | Deformation Map |
 |-------------|----------------|
-| <img src="images/IMG_4620.jpg" width="500"> | <img src="images/result_metal.png" width="500"> |
+| <img src="images/IMG_4620.jpg" height="300"> | <img src="images/result_metal.png" height="300"> |
